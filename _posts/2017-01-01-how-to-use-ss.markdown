@@ -1,0 +1,75 @@
+---
+layout: post
+category: "vps"
+title:  "windows下使用ss科学上网"
+---
+<br/>
+
+### (一)使用搜狗浏览器安装代理插件SwitchySharp:    
+
+打开搜狗浏览器，在地址栏中输入  http://ie.sogou.com/app/search/switchysharp   &nbsp;&nbsp;  然后回车  
+点击安装  
+安装完成后浏览器地址栏右侧出现一个地球形状的小图标，如下图： 
+
+![](http://skofield.me/assets/ss/earthtubiao.png)  
+<br/><br/>
+
+<!-- more -->
+
+点击这个地球形状的小图标，选择“使用系统代理设置”，如下图：  
+![](http://skofield.me/assets/ss/xitongdaili.png)   
+<br/><br/>
+再次点击地球形状的小图标，点击“选项”： 
+![](http://skofield.me/assets/ss/dianjixuanxiang.png)  
+<br/><br/> 
+
+在SwitchySharp选项中配置SOCKS代理及端口，如下图所示：  
+![](http://skofield.me/assets/ss/xuanxiang.png)   
+<br/><br/> 
+配置完成后，注意点击<font color="#ff0000" face="黑体">保存</font>
+
+### (二)下载shadowsocks客户端
+
+[点击此处下载shadowsocks客户端](http://skofield.me/assets/ss/Shadowsocks.exe)  
+
+下载完成后，在D盘建一个文件夹shadowsocks,将下下来的Shadowsocks.exe文件放入其中  
+
+### (三)启动shadowsocks并进行相关配置
+双击上一步放入D:\shadowsocks文件夹中的Shadowsocks.exe文件  
+启动shadowsocks之后进行如下配置:  
+![](http://skofield.me/assets/ss/ssconfig.png)  
+
+<font color="#ff0000" face="黑体">欲知密码可发邮件与我联系，站长邮箱请见</font>[“关于”](http://skofield.me/about.html)
+<br/><br/>
+点击“确定",shadowsocks即在系统中开始运行，桌面右下角可以看到一个纸飞机形状的图标:  
+![](http://skofield.me/assets/ss/sstubiao.png)  
+<br/><br/>
+
+右键单击这个图标，选中“启用系统代理”  
+"系统代理模式" &nbsp;  ==>  &nbsp; "PAC模式"  
+![](http://skofield.me/assets/ss/pacmode.png)
+<br/><br/>
+
+PAC &nbsp; ==> &nbsp;"使用本地PAC" ：  
+![](http://skofield.me/assets/ss/bdpac.png)
+<br/><br/>
+
+PAC &nbsp; ==> &nbsp;  "从GFWList更新本地PAC"  
+![](http://skofield.me/assets/ss/gfwgx.png)  
+更新完成后会提示更新成功
+<br/><br/>
+
+
+
+### 大功告成，现在打开搜狗浏览器访问google.com检查是否配置成功
+
+>P.S. 可以自行修改本地PAC文件，将需要翻墙访问的网址加进去，文件是shadowsocks目录下的PAC.txt,时常手动更新GFWList也是一个好的选择
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,31 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /posts/:title.html
+excerpt_separator: "<!-- more -->"
+port: 80
+github: skofield001
+author: skofield
+email: skofield@163.com
+name: skofield
+url: http://skofield.me
+domain: skofield.me
+all_categories: [
+["strategy", "量化策略","/posts/strategy.html"], 
+["python", "Python编程","/posts/python.html"],
+["matlab", "Matlab编程","/posts/matlab.html"],
+["vps", "VPS建站","/posts/vps.html"],
+["read", "读书笔记","/posts/read.html"], 
+["grzt", "观仁杂谈","/posts/grzt.html"],
+["about", "关于","/about.html"]
+]
+
+paginate: 8
+paginate_path: "posts/page:num"
+timezone: America/Los_Angeles
+
+collections:
+  docs:
+    output: true
+
+plugins:
+ - jekyll-paginate

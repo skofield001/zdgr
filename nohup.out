@@ -1,0 +1,1277 @@
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.156 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+[2017-07-01 07:34:47] ERROR `/posts/android.html' not found.
+[2017-07-01 07:41:29] ERROR `/posts/other.html' not found.
+[2017-07-01 07:51:45] ERROR `/posts/program.html' not found.
+[2017-07-01 07:51:50] ERROR `/posts/program.html' not found.
+[2017-07-01 14:04:46] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2017-07-01 19:40:57 ...done in 0.228913796 seconds.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.163 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.169 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2017-07-01 19:45:11 ...done in 0.157408369 seconds.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.152 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+[2017-07-02 00:50:19] ERROR `/posts/android.html' not found.
+[2017-07-02 04:14:10] ERROR `/x' not found.
+[2017-07-02 05:22:25] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-02 07:00:05] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-02 07:00:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-02 21:07:33] ERROR `/posts/web.html' not found.
+[2017-07-03 05:17:11] ERROR `/manager/html' not found.
+[2017-07-03 06:09:16] ERROR `/posts/linux.html' not found.
+[2017-07-03 10:31:14] ERROR `/muieblackcat' not found.
+[2017-07-03 10:31:14] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-03 10:31:14] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-03 10:31:14] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-03 10:31:14] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-03 10:31:14] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-03 10:31:14] ERROR `/scripts/setup.php' not found.
+[2017-07-03 10:31:15] ERROR `/admin/scripts/setup.php' not found.
+[2017-07-03 10:31:15] ERROR `/admin/pma/scripts/setup.php' not found.
+[2017-07-03 10:31:15] ERROR `/admin/phpmyadmin/scripts/setup.php' not found.
+[2017-07-03 10:31:15] ERROR `/db/scripts/setup.php' not found.
+[2017-07-03 10:31:15] ERROR `/dbadmin/scripts/setup.php' not found.
+[2017-07-03 10:31:15] ERROR `/mysql/scripts/setup.php' not found.
+[2017-07-03 10:31:15] ERROR `/mysqladmin/scripts/setup.php' not found.
+[2017-07-03 16:41:09] ERROR `/posts/android.html' not found.
+[2017-07-03 21:47:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-04 17:29:35] ERROR `/hndUnblock.cgi' not found.
+[2017-07-04 17:29:36] ERROR `/tmUnblock.cgi' not found.
+[2017-07-04 17:29:36] ERROR `/moo' not found.
+[2017-07-05 03:00:56] ERROR `/posts/android.html' not found.
+[2017-07-05 03:16:57] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-05 16:51:34] ERROR `/currentsetting.htm' not found.
+[2017-07-05 18:20:12] ERROR bad Request-Line `\x16\x03\x01\x01"\x01\x00\x01\x1E\x03\x03z{Üí¶C°®\x1Dp{%µD\e æÌ\f\x17¥á\r(BAïX™2Ü\x1E\x00\x00à¿0¿,¿(¿$¿\x14¿'.
+[2017-07-05 18:20:15] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-05 18:20:19] ERROR bad Request-Line `USER test +iw test :Test Wuz Here'.
+[2017-07-05 18:20:19] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-06 05:30:13] ERROR bad Request-Line `È\x01\r\x10\x16˛ÚÔ\x03\x1A “ù∑›\x18\x7Fµ\vÍfÃ£A\x16ÄWMñè&Ó'.
+[2017-07-06 18:58:22] ERROR Errno::ETIMEDOUT: Connection timed out
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `write'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `<<'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `_write_data'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:454:in `_send_file'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:409:in `send_body_io'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:305:in `send_body'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:209:in `send_response'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:112:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-06 18:58:38] ERROR Errno::ETIMEDOUT: Connection timed out
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `write'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `<<'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `_write_data'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:454:in `_send_file'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:409:in `send_body_io'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:305:in `send_body'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:209:in `send_response'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:112:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-06 19:40:16] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-07 05:14:54] ERROR bad Request-Line `Cíãm\x11:Íÿ\x14\x02M«ºmtíËÑ£F‡I\x13eS±È\x01Zú:n$\x17€Üí\e˛V†ﬁ–≥ñÉóÿ\x1Ev°ø\x15ﬂ“Ä*ˆÿu`˘a‘'.
+[2017-07-07 05:25:44] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-07 07:30:19] ERROR `/phpmyadmin' not found.
+[2017-07-07 15:18:33] ERROR `/manager/html' not found.
+[2017-07-07 17:57:01] ERROR `/phpmyadmin ' not found.
+[2017-07-07 22:13:32] ERROR `/manager/html' not found.
+[2017-07-07 22:47:04] ERROR `/muieblackcat' not found.
+[2017-07-07 22:47:04] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-07 22:47:05] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-07 22:47:05] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-07 22:47:05] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-07 22:47:05] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-07 22:57:30] ERROR `/manager/html' not found.
+[2017-07-07 23:04:06] ERROR `/phpmyadmin' not found.
+[2017-07-08 05:14:08] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-08 07:40:42] ERROR `/manager/html' not found.
+[2017-07-08 13:23:58] ERROR `/cgi/common.cgi' not found.
+[2017-07-08 13:23:59] ERROR `/stssys.htm' not found.
+[2017-07-08 13:24:03] ERROR `/command.php' not found.
+[2017-07-08 16:39:24] ERROR `/muieblackcat' not found.
+[2017-07-08 16:39:24] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-08 16:39:24] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-08 16:39:25] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-08 16:39:25] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-08 16:39:25] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-08 22:11:04] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-08 22:11:05] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-08 22:11:05] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-08 23:18:22] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-09 05:31:40] ERROR `/x' not found.
+[2017-07-09 08:06:26] ERROR `/manager/html' not found.
+[2017-07-09 08:34:15] ERROR `/manager/html' not found.
+[2017-07-09 15:04:22] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-09 17:32:53] ERROR `/w00tw00t.at.ISC.SANS.DFind:)' not found.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.242 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+[2017-07-10 18:59:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 19:41:14] ERROR Errno::ETIMEDOUT: Connection timed out
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `write'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `<<'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `_write_data'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:454:in `_send_file'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:409:in `send_body_io'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:305:in `send_body'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:209:in `send_response'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:112:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 19:41:26] ERROR Errno::ETIMEDOUT: Connection timed out
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `write'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `<<'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:461:in `_write_data'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:454:in `_send_file'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:409:in `send_body_io'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:305:in `send_body'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpresponse.rb:209:in `send_response'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:112:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:20:54] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:22:02] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:34:42] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:38:02] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:38:03] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:38:03] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:42:09] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:42:09] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:42:09] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:42:10] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:17 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 20:42:10] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 23:06:45] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-10 23:34:29] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 02:40:12] ERROR `/manager/html' not found.
+[2017-07-11 03:11:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:23 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:11:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:11:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:11:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:30 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:11:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:20 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:21:40] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:21:40] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:21 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:37:50] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:45:51] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 03:45:51] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2017-07-11 07:14:21 ...done in 0.176482168 seconds.
+      Regenerating: 1 file(s) changed at 2017-07-11 07:17:29 ...done in 0.106216963 seconds.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.147 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.154 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2017-07-11 07:22:59 ...done in 0.124417489 seconds.
+      Regenerating: 1 file(s) changed at 2017-07-11 07:22:59 ...done in 0.11890586 seconds.
+      Regenerating: 1 file(s) changed at 2017-07-11 07:24:37 ...done in 0.105712895 seconds.
+      Regenerating: 1 file(s) changed at 2017-07-11 07:24:37 ...done in 0.130635782 seconds.
+      Regenerating: 1 file(s) changed at 2017-07-11 07:25:35 ...done in 0.111151551 seconds.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.148 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2017-07-11 07:31:11 ...done in 0.13086903 seconds.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.152 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.145 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+[2017-07-11 08:50:11] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-11 09:29:34] ERROR `/currentsetting.htm' not found.
+[2017-07-11 09:30:36] ERROR `/currentsetting.htm' not found.
+[2017-07-11 14:33:49] ERROR `/manager/html' not found.
+[2017-07-11 16:37:59] ERROR bad Request-Line `ftÊ=\x00\x00\x00\x00\x00\x00\x00\x00ôã\x19¬\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00ËÃ{Ã\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'.
+[2017-07-11 16:37:59] ERROR bad Request-Line `‰µˇw\eJ\x00àkˇÔ»\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'.
+[2017-07-11 17:59:48] ERROR bad URI `http://115.239.210.27'.
+[2017-07-12 07:43:58] ERROR bad URI `http://115.239.210.27'.
+[2017-07-12 10:16:29] ERROR `/muieblackcat' not found.
+[2017-07-12 10:16:30] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-12 10:16:30] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-12 10:16:31] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-12 10:16:31] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-12 10:16:31] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-12 10:32:47] ERROR `/manager/html' not found.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.154 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+[2017-07-13 06:03:39] ERROR bad Request-Line `Gh0st≠\x00\x00\x00‡\x00\x00\x00xúKS``ò√¿¿¿\x06ƒå@ºQñÅÅ\tH\aß\x16ïe&ß*\x04$&g+\x182îˆ∞00¨®rc\x00\x01\x11†Ç\x1F\\`&É«K7Ü\x19Ân\f9ïn\f;Ñ\x0F3¨Ësch®^œ4'Jó©Ç„0√ëh]&ê¯ŒóSÀA4L?2=·ƒíÜ\v@ı`\fT\x1FÆØ]'.
+[2017-07-13 08:40:22] ERROR `/sitemap.xml' not found.
+[2017-07-13 18:28:49] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-13 23:36:48] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:16 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-14 04:17:04] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-14 12:53:40] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-14 14:43:07] ERROR `/hndUnblock.cgi' not found.
+[2017-07-14 14:43:08] ERROR `/tmUnblock.cgi' not found.
+[2017-07-14 14:43:09] ERROR `/moo' not found.
+[2017-07-15 06:21:41] ERROR `/manager/html' not found.
+[2017-07-15 06:51:43] ERROR `/xmlrpc.php' not found.
+[2017-07-15 12:58:39] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-15 13:42:15] ERROR `/currentsetting.htm' not found.
+[2017-07-15 13:43:07] ERROR `/currentsetting.htm' not found.
+[2017-07-15 13:43:15] ERROR `/currentsetting.htm' not found.
+[2017-07-15 13:43:43] ERROR `/currentsetting.htm' not found.
+[2017-07-15 13:43:57] ERROR `/currentsetting.htm' not found.
+[2017-07-15 13:43:59] ERROR `/currentsetting.htm' not found.
+[2017-07-16 08:59:48] ERROR `/xmlrpc.php' not found.
+[2017-07-16 11:59:04] ERROR `/xmlrpc.php' not found.
+[2017-07-16 14:01:20] ERROR `/sitemap.xml' not found.
+[2017-07-16 14:27:11] ERROR `/x' not found.
+[2017-07-16 14:46:08] ERROR `/okvrstqrg.html' not found.
+[2017-07-16 15:46:08] ERROR `/Login' not found.
+[2017-07-16 17:52:59] ERROR bad URI `login.cgi'.
+[2017-07-17 07:03:23] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-17 10:37:57] ERROR bad URI `login.cgi'.
+[2017-07-17 20:41:14] ERROR `/azenv.php' not found.
+[2017-07-17 22:19:14] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-18 01:10:09] ERROR `/azenv.php' not found.
+[2017-07-18 05:29:05] ERROR `/azenv.php' not found.
+[2017-07-18 11:46:48] ERROR `/phpmyadmin' not found.
+[2017-07-18 16:01:49] ERROR `/muieblackcat' not found.
+[2017-07-18 16:01:50] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-18 16:01:50] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-18 16:02:22] ERROR `/muieblackcat' not found.
+[2017-07-18 16:02:22] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-18 16:02:23] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-18 16:02:23] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-18 16:02:24] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-18 16:02:24] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-18 16:05:06] ERROR `/muieblackcat' not found.
+[2017-07-18 16:05:06] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-18 16:05:07] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-18 16:07:38] ERROR `/muieblackcat' not found.
+[2017-07-18 16:07:39] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-18 16:07:39] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-18 16:07:39] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-18 16:07:40] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-18 16:07:40] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-18 16:18:42] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-18 16:18:42] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-19 04:31:11] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-19 10:38:40] ERROR `/sitemap.xml' not found.
+[2017-07-19 15:11:47] ERROR `/xmlrpc.php' not found.
+[2017-07-20 00:22:11] ERROR `/script' not found.
+[2017-07-20 01:47:16] ERROR `/phpmyadmin' not found.
+[2017-07-20 07:00:11] ERROR `/manager/html' not found.
+[2017-07-20 10:59:37] ERROR bad Request-Line `\x16\x03\x01\x00ã\x01\x00\x00á\x03\x03gFÑ\x11ß/¡ﬁ£ã^±›H©˚ëØÉ˛-∑ˆ}≈ì"OU\f–#\x00\x00\x1A¿/¿+¿\x11¿\a¿\x13¿\t¿\x14¿'.
+[2017-07-20 13:54:46] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-20 15:42:30] ERROR `/azenv.php' not found.
+[2017-07-20 19:59:31] ERROR `/azenv.php' not found.
+[2017-07-21 00:08:34] ERROR `/azenv.php' not found.
+[2017-07-21 04:27:54] ERROR `/azenv.php' not found.
+[2017-07-21 05:09:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:13 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-21 05:09:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:14 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-21 08:51:54] ERROR `/azenv.php' not found.
+[2017-07-21 11:55:06] ERROR `/xmlrpc.php' not found.
+[2017-07-21 12:21:35] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-21 12:21:35] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-21 12:21:36] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-21 13:05:54] ERROR `/azenv.php' not found.
+[2017-07-21 23:02:07] ERROR `/muieblackcat' not found.
+[2017-07-21 23:02:07] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-21 23:02:08] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-21 23:02:08] ERROR `/mysqladmin/scripts/setup.php' not found.
+[2017-07-21 23:02:09] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-21 23:02:09] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-21 23:02:10] ERROR `/phpMyAdmin-2.10.0/scripts/setup.php' not found.
+[2017-07-21 23:02:10] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-21 23:02:10] ERROR `/myAdmin/scripts/setup.php' not found.
+[2017-07-21 23:02:11] ERROR `/my/scripts/setup.php' not found.
+[2017-07-21 23:02:11] ERROR `/webdb/scripts/setup.php' not found.
+[2017-07-21 23:02:11] ERROR `/admin/index.php' not found.
+[2017-07-21 23:02:12] ERROR `/mysql/scripts/setup.php' not found.
+[2017-07-21 23:02:12] ERROR `/dbadmin/scripts/setup.php' not found.
+[2017-07-21 23:02:13] ERROR `/sqladm/scripts/setup.php' not found.
+[2017-07-21 23:02:13] ERROR `/admin/pma/index.php' not found.
+[2017-07-21 23:02:13] ERROR `/scripts/setup.php' not found.
+[2017-07-21 23:02:14] ERROR `/PMA/scripts/setup.php' not found.
+[2017-07-21 23:53:57] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-21 23:56:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 00:02:21] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 00:07:12] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 05:46:39] ERROR `/currentsetting.htm' not found.
+[2017-07-22 05:46:42] ERROR `/currentsetting.htm' not found.
+[2017-07-22 05:47:05] ERROR `/currentsetting.htm' not found.
+[2017-07-22 05:51:00] ERROR `/currentsetting.htm' not found.
+[2017-07-22 08:03:35] ERROR bad URI `Ω“MB¶µzÙ\eﬁ$Z\x14êxT\x00\x00à¿0¿,¿(¿$¿\x14¿'.
+[2017-07-22 08:03:39] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 08:03:42] ERROR bad Request-Line `USER test +iw test :Test Wuz Here'.
+[2017-07-22 08:03:42] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 11:01:13] ERROR `/xmlrpc.php' not found.
+[2017-07-22 13:40:02] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-22 13:40:02] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-22 13:40:03] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-22 18:11:37] ERROR `/muieblackcat' not found.
+[2017-07-22 18:11:37] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-07-22 18:11:38] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-22 18:11:38] ERROR `/mysqladmin/scripts/setup.php' not found.
+[2017-07-22 18:11:39] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-22 18:11:39] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-22 18:11:39] ERROR `/phpMyAdmin-2.10.0/scripts/setup.php' not found.
+[2017-07-22 18:11:40] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-07-22 18:11:40] ERROR `/myAdmin/scripts/setup.php' not found.
+[2017-07-22 18:11:40] ERROR `/my/scripts/setup.php' not found.
+[2017-07-22 18:11:41] ERROR `/webdb/scripts/setup.php' not found.
+[2017-07-22 18:11:41] ERROR `/admin/index.php' not found.
+[2017-07-22 18:11:42] ERROR `/mysql/scripts/setup.php' not found.
+[2017-07-22 18:11:42] ERROR `/dbadmin/scripts/setup.php' not found.
+[2017-07-22 18:11:42] ERROR `/sqladm/scripts/setup.php' not found.
+[2017-07-22 18:11:43] ERROR `/admin/pma/index.php' not found.
+[2017-07-22 18:11:43] ERROR `/scripts/setup.php' not found.
+[2017-07-22 18:11:44] ERROR `/PMA/scripts/setup.php' not found.
+[2017-07-22 19:31:12] ERROR TypeError: can't dup NilClass
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:266:in `dup'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:266:in `prevent_directory_traversal'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:213:in `service'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 19:31:14] ERROR TypeError: can't dup NilClass
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:266:in `dup'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:266:in `prevent_directory_traversal'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:213:in `service'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 19:31:17] ERROR bad URI `http://www.123cha.com'.
+[2017-07-22 19:42:32] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 19:47:15] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 19:51:52] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 21:47:00] ERROR TypeError: can't dup NilClass
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:266:in `dup'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:266:in `prevent_directory_traversal'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpservlet/filehandler.rb:213:in `service'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-22 21:47:00] ERROR bad URI `http://www.123cha.com'.
+[2017-07-23 00:43:03] ERROR bad URI `login.cgi'.
+[2017-07-23 02:34:21] ERROR `/manager/html' not found.
+jekyll 3.5.0 | Error:  Whoops, we can't understand your command.
+jekyll 3.5.0 | Error:  invalid option: -w
+jekyll 3.5.0 | Error:  Run your command again with the --help switch to see available options.
+Configuration file: /usr/website/zdgr/_config.yml
+            Source: /usr/website/zdgr
+       Destination: /usr/website/zdgr/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.194 seconds.
+ Auto-regeneration: enabled for '/usr/website/zdgr'
+    Server address: http://0.0.0.0:80
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2017-07-27 01:31:23 ...done in 0.101207354 seconds.
+[2017-07-27 12:43:40] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-27 12:43:40] ERROR `/manager/html' not found.
+[2017-07-27 22:21:06] ERROR bad URI `login.cgi'.
+[2017-07-28 04:37:55] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-07-28 04:37:56] ERROR `/pma/scripts/setup.php' not found.
+[2017-07-28 04:37:56] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-07-28 23:36:08] ERROR bad URI `login.cgi'.
+[2017-07-29 09:09:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-29 11:35:04] ERROR `/CFIDE/administrator/' not found.
+[2017-07-30 02:41:53] ERROR bad URI `login.cgi'.
+[2017-07-30 07:20:36] ERROR `/x' not found.
+[2017-07-30 16:51:40] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-07-30 22:10:10] ERROR `/composer.json' not found.
+[2017-07-31 02:34:16] ERROR `/library/firstDetect.js.php' not found.
+[2017-07-31 02:41:57] ERROR `/library/firstDetect.js.php' not found.
+[2017-07-31 05:02:22] ERROR `/library/firstDetect.js.php' not found.
+[2017-07-31 06:47:53] ERROR `/library/firstDetect.js.php' not found.
+[2017-07-31 07:10:07] ERROR `/library/firstDetect.js.php' not found.
+[2017-07-31 12:56:01] ERROR `/library/firstDetect.js.php' not found.
+[2017-07-31 15:18:15] ERROR `/afterlogic/VERSION' not found.
+[2017-07-31 18:21:31] ERROR `/library/firstDetect.js.php' not found.
+[2017-08-01 21:55:48] ERROR `/.git/config' not found.
+[2017-08-02 17:31:03] ERROR `/sitemap.xml' not found.
+[2017-08-02 19:29:06] ERROR `/afterlogic/VERSION' not found.
+[2017-08-02 20:36:15] ERROR `/cgi/common.cgi' not found.
+[2017-08-02 20:36:16] ERROR `/stssys.htm' not found.
+[2017-08-02 20:36:20] ERROR `/command.php' not found.
+[2017-08-03 01:14:37] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:15 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-03 01:14:39] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:12 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-03 01:26:58] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:18 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-03 09:20:57] ERROR `/w00tw00t.at.ISC.SANS.DFind:)' not found.
+[2017-08-03 14:46:47] ERROR `/hndUnblock.cgi' not found.
+[2017-08-03 14:46:48] ERROR `/tmUnblock.cgi' not found.
+[2017-08-03 14:46:48] ERROR `/moo' not found.
+[2017-08-03 15:24:28] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-03 15:24:29] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-03 15:24:32] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-03 18:29:08] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-05 07:44:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-05 14:39:16] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-05 14:39:16] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-05 14:39:17] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-05 20:38:51] ERROR `/.hg/hgrc' not found.
+[2017-08-06 03:49:23] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-06 15:25:30] ERROR `/manager/html' not found.
+[2017-08-06 18:21:56] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-06 18:29:45] ERROR `/x' not found.
+[2017-08-07 05:29:24] ERROR `/ihwchtmcq.html' not found.
+[2017-08-07 11:15:18] ERROR `/wallet.dat' not found.
+[2017-08-07 11:32:35] ERROR `/muieblackcat' not found.
+[2017-08-07 11:32:35] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-07 11:32:37] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-07 11:32:37] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-07 11:32:38] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-07 11:32:38] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-07 15:19:35] ERROR `/xmlrpc.php' not found.
+[2017-08-07 17:31:00] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-07 22:27:34] ERROR `/a2billing/admin/Public/index.php' not found.
+[2017-08-07 23:43:29] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-08 09:31:18] ERROR `/HNAP1/' not found.
+[2017-08-08 13:35:21] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-09 09:49:47] ERROR `/manager/html' not found.
+[2017-08-09 11:53:36] ERROR `/check_proxy' not found.
+[2017-08-09 17:52:59] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-09 17:52:59] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-09 17:52:59] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-09 21:49:28] ERROR bad Request-Line `\x04\x01\x00P¥£qR\x00'.
+[2017-08-10 00:15:55] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-10 00:29:58] ERROR bad Request-Line `\x05\x02\x00\x02'.
+[2017-08-10 13:56:04] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-10 13:56:04] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-10 13:56:04] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-10 19:57:12] ERROR bad URI `mstshash=Administr'.
+[2017-08-10 21:35:16] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-10 21:35:16] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-10 22:11:49] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-10 22:11:49] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-10 22:11:50] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-11 04:17:56] ERROR `/manager/html' not found.
+[2017-08-11 09:47:53] ERROR `/manager/html' not found.
+[2017-08-11 11:49:43] ERROR `/sitemap.xml' not found.
+[2017-08-11 12:21:49] ERROR bad Request-Line `'.
+[2017-08-11 16:48:13] ERROR `/manager/html' not found.
+[2017-08-11 18:07:57] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-08-11 18:07:58] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-11 18:07:58] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-11 18:07:58] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-11 18:07:59] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-11 18:08:00] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-11 18:24:12] ERROR `/mjpg/video.mjpg' not found.
+[2017-08-11 19:37:06] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-08-11 19:37:07] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-11 19:37:07] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-11 19:37:07] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-11 19:37:08] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-11 19:37:08] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-12 00:18:42] ERROR `/manager/html' not found.
+[2017-08-12 07:56:28] ERROR bad Request-Line `'.
+[2017-08-12 15:55:31] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-12 19:57:19] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-08-12 19:57:20] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-12 19:57:20] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-12 19:57:21] ERROR `/mysqladmin/scripts/setup.php' not found.
+[2017-08-13 06:54:22] ERROR `/x' not found.
+[2017-08-14 12:51:23] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-14 17:02:13] ERROR `/manager/html' not found.
+[2017-08-14 22:35:43] ERROR `/cgi/common.cgi' not found.
+[2017-08-14 22:35:44] ERROR `/stssys.htm' not found.
+[2017-08-14 22:35:48] ERROR `/command.php' not found.
+[2017-08-15 09:21:14] ERROR `/manager/html' not found.
+[2017-08-15 12:34:16] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-15 12:34:17] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-15 12:34:17] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-15 13:29:32] ERROR `/manager/html' not found.
+[2017-08-15 16:56:09] ERROR `/hndUnblock.cgi' not found.
+[2017-08-15 16:56:10] ERROR `/tmUnblock.cgi' not found.
+[2017-08-15 16:56:10] ERROR `/moo' not found.
+[2017-08-16 10:09:36] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-08-16 10:09:36] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-16 10:09:37] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-16 10:09:37] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-16 10:09:38] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-16 10:09:38] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-16 11:45:41] ERROR `/check_proxy' not found.
+[2017-08-16 13:04:18] ERROR bad Request-Line `Gh0st≠\x00\x00\x00‡\x00\x00\x00xúKS``ò√¿¿¿\x06ƒå@ºQñÅÅ\tH\aß\x16ïe&ß*\x04$&g+\x182îˆ∞00¨®rc\x00\x01\x11†Ç\x1F\\`&É«K7Ü\x19Ân\f9ïn\f;Ñ\x0F3¨Ësch®^œ4'Jó©Ç„0√ëh]&ê¯ŒóSÀA4L?2=·ƒíÜ\v@ı`\fT\x1FÆØ]'.
+[2017-08-16 16:28:01] ERROR `/SnapshotJPEG' not found.
+[2017-08-16 21:23:06] ERROR bad Request-Line `\x04\x01\x00P¥£qR\x00'.
+[2017-08-16 23:33:31] ERROR bad Request-Line `\x16\x03\x01\x01"\x01\x00\x01\x1E\x03\x03¨\x15‘ı‡fóÒﬁ‘ÇÏ\x05††P”›÷\x12\x03ÚYﬂˇ‹M¯Zt»Æ\x00\x00à¿0¿,¿(¿$¿\x14¿'.
+[2017-08-16 23:33:34] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-16 23:33:37] ERROR bad Request-Line `USER test +iw test :Test Wuz Here'.
+[2017-08-16 23:33:38] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-17 00:01:31] ERROR bad Request-Line `\x05\x02\x00\x02'.
+[2017-08-17 01:32:35] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-08-17 01:32:36] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-17 01:32:36] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-17 01:32:37] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-17 01:32:37] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-17 01:32:38] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-17 02:18:38] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-17 04:34:24] ERROR bad Request-Line `\x16\x03\x01\x00ã\x01\x00\x00á\x03\x03©´\t¸˜ r≠9\x18.\b‰\bŸ’hù{Âÿo¸JO^/ˇ…[ºä\x00\x00\x1A¿/¿+¿\x11¿\a¿\x13¿\t¿\x14¿'.
+[2017-08-17 05:44:17] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-17 09:59:54] ERROR `/fotaohlc.html' not found.
+[2017-08-17 15:01:39] ERROR `/manager/html' not found.
+[2017-08-18 02:37:15] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-08-18 02:37:15] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-18 02:37:16] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-18 02:37:16] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-18 02:37:16] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-18 02:37:17] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-18 02:37:30] ERROR `/phpmyadmin/main.php' not found.
+[2017-08-18 05:16:11] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-19 03:16:52] ERROR `/currentsetting.htm' not found.
+[2017-08-19 06:25:53] ERROR unsupported method `POST'.
+[2017-08-19 07:52:26] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-19 10:22:06] ERROR bad Request-Line `'.
+[2017-08-19 23:48:17] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-19 23:48:18] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-19 23:48:18] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-20 03:59:31] ERROR `/manager/html' not found.
+[2017-08-20 17:30:50] ERROR `/x' not found.
+[2017-08-20 22:24:44] ERROR `/muieblackcat' not found.
+[2017-08-20 22:24:44] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-20 22:24:44] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-20 22:24:44] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-20 22:24:45] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-20 22:24:45] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-20 23:50:56] ERROR `/manager/html' not found.
+[2017-08-21 20:24:39] ERROR `/manager/html' not found.
+[2017-08-21 22:55:36] ERROR `/stats' not found.
+[2017-08-22 01:59:10] ERROR unsupported method `PROPFIND'.
+[2017-08-22 05:59:34] ERROR bad URI `¯9SÑ-ü1\x0Fyx\x19Ôí*°oUëüi [*õ4\x05¨\x00\x00à¿0¿,¿(¿$¿\x14¿'.
+[2017-08-22 05:59:37] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-22 05:59:40] ERROR bad Request-Line `USER test +iw test :Test Wuz Here'.
+[2017-08-22 05:59:40] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-22 15:20:19] ERROR `/muieblackcat' not found.
+[2017-08-22 15:20:19] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-22 15:20:20] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-22 15:20:20] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-22 15:20:20] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-22 15:20:21] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-22 19:54:12] ERROR `/sitemap.xml' not found.
+[2017-08-23 02:23:03] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-23 11:28:22] ERROR unsupported method `POST'.
+[2017-08-23 11:28:30] ERROR `/index.action' not found.
+[2017-08-23 11:28:46] ERROR unsupported method `POST'.
+[2017-08-23 11:28:52] ERROR `/index.action' not found.
+[2017-08-23 11:31:21] ERROR `/check_proxy' not found.
+[2017-08-23 14:12:30] ERROR `/web-console/ServerInfo.jsp' not found.
+[2017-08-23 14:12:31] ERROR `/jmx-console/HtmlAdaptor' not found.
+[2017-08-23 14:12:31] ERROR `/invoker/JMXInvokerServlet' not found.
+[2017-08-23 19:11:17] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-23 20:28:51] ERROR bad Request-Line `\x04\x01\x00P¥£qR\x00'.
+[2017-08-23 20:43:10] ERROR `/manager/html' not found.
+[2017-08-23 23:05:57] ERROR bad Request-Line `\x05\x02\x00\x02'.
+[2017-08-24 04:42:04] ERROR `/manager/html' not found.
+[2017-08-24 15:58:29] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-25 08:49:34] ERROR `/currentsetting.htm' not found.
+[2017-08-25 14:56:34] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-25 15:45:48] ERROR `/cgi/common.cgi' not found.
+[2017-08-25 15:45:49] ERROR `/stssys.htm' not found.
+[2017-08-25 15:45:53] ERROR `/command.php' not found.
+[2017-08-25 20:31:26] ERROR `/zervit32' not found.
+[2017-08-25 20:31:27] ERROR `/your/killing/me/smalls.jpg' not found.
+[2017-08-25 20:31:33] ERROR `/Chromex64.exe' not found.
+[2017-08-25 20:31:33] ERROR `/your/killing/me/smalls.jpg' not found.
+[2017-08-25 20:31:33] ERROR `/httpconf.aspx' not found.
+[2017-08-25 20:31:33] ERROR `/your/killing/me/smalls.jpg' not found.
+[2017-08-25 20:31:34] ERROR `/welcome.aspx' not found.
+[2017-08-25 20:31:34] ERROR `/your/killing/me/smalls.jpg' not found.
+[2017-08-25 20:31:34] ERROR `/Normal.dotm' not found.
+[2017-08-25 20:31:35] ERROR `/your/killing/me/smalls.jpg' not found.
+[2017-08-25 20:31:35] ERROR `/ame_icon.pn' not found.
+[2017-08-25 20:31:35] ERROR `/your/killing/me/smalls.jpg' not found.
+[2017-08-25 20:31:52] ERROR `/ame_icon.png' not found.
+[2017-08-25 20:31:53] ERROR `/your/killing/me/smalls.jpg' not found.
+[2017-08-25 20:31:53] ERROR `/Template.dom' not found.
+[2017-08-25 20:31:54] ERROR `/your/killing/me/smalls.jpg' not found.
+[2017-08-26 05:00:06] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-26 05:27:40] ERROR `/phpmyadmin' not found.
+[2017-08-26 11:53:06] ERROR `/hndUnblock.cgi' not found.
+[2017-08-26 11:53:06] ERROR `/tmUnblock.cgi' not found.
+[2017-08-26 11:53:07] ERROR `/moo' not found.
+[2017-08-27 01:36:47] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-08-27 01:36:47] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-27 01:36:48] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-27 01:36:48] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-27 01:36:48] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-27 01:36:49] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-27 02:06:32] ERROR `/login.action' not found.
+[2017-08-27 11:52:27] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-27 11:52:31] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-27 11:52:31] ERROR `/manager/html' not found.
+[2017-08-27 11:56:54] ERROR bad Request-Line `\x16\x03\x01\x01"\x01\x00\x01\x1E\x03\x03Ì2ü≈bää\x16™|~ß”\x7F\x1F¢…zàîÈÓ\x06ñO{§%øBn‘\x00\x00à¿0¿,¿(¿$¿\x14¿'.
+[2017-08-27 11:56:57] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-27 11:57:00] ERROR bad Request-Line `USER test +iw test :Test Wuz Here'.
+[2017-08-27 11:57:01] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2017-08-27 17:41:07 ...done in 0.97290149 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 17:45:53 ...done in 0.123487603 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 17:47:58 ...done in 0.119639174 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 17:49:20 ...done in 0.118923364 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 17:51:12 ...done in 0.135094024 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 17:53:07 ...done in 0.110373429 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 17:58:04 ...done in 0.106678904 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 18:00:05 ...done in 0.112967295 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 18:02:12 ...done in 0.110018747 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 18:02:57 ...done in 0.11081093 seconds.
+      Regenerating: 2 file(s) changed at 2017-08-27 18:04:29 ...done in 0.103335486 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 18:05:53 ...done in 0.13300389 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 18:36:38 ...done in 0.141174739 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 18:39:18 ...done in 0.111544171 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 18:41:10 ...done in 0.130823553 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 19:20:22 ...done in 0.445030056 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 19:23:43 ...done in 0.190619737 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 19:30:53 ...done in 0.165109727 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 19:34:27 ...done in 0.126537601 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 19:42:15 ...done in 0.129053135 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 19:50:38 ...done in 0.139116676 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:22:14 ...done in 0.15291685 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:25:02 ...done in 0.149324463 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:25:22 ...done in 0.132816365 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:25:36 ...done in 0.12543591 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:25:41 ...done in 0.139501722 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:25:48 ...done in 0.140862755 seconds.
+      Regenerating: 2 file(s) changed at 2017-08-27 20:25:58 ...done in 0.138464544 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:26:07 ...done in 0.144012405 seconds.
+      Regenerating: 2 file(s) changed at 2017-08-27 20:26:38 ...done in 0.146376343 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:26:54 ...done in 0.175872759 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:27:21 ...done in 0.176165601 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:30:50 ...done in 0.146798849 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 20:32:16 ...done in 0.167261918 seconds.
+[2017-08-27 21:54:21] ERROR `/Template.dotm' not found.
+[2017-08-27 21:54:21] ERROR `/your/killing/me/smalls.jpg' not found.
+      Regenerating: 1 file(s) changed at 2017-08-27 22:43:29 ...done in 0.204911083 seconds.
+      Regenerating: 2 file(s) changed at 2017-08-27 22:45:14 ...done in 0.181175513 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 22:58:00 ...done in 0.182830037 seconds.
+      Regenerating: 2 file(s) changed at 2017-08-27 22:58:22 ...done in 0.155246391 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 23:00:29 ...done in 0.171032049 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-27 23:03:06 ...done in 0.142017181 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 01:51:50 ...done in 0.163443199 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 01:53:12 ...done in 0.201446084 seconds.
+[2017-08-28 04:09:32] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-28 11:37:20] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2017-08-28 20:05:04 ...done in 0.168309625 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:05:05 ...done in 0.146534894 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:05:06 ...done in 0.147105883 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:05:06 ...done in 0.199551127 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:05:07 ...done in 0.151887044 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:05:07 ...done in 0.153159343 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:07:39 ...done in 0.158292163 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:09:48 ...done in 0.156576769 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:15:16 ...done in 0.146314593 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:17:53 ...done in 0.18552002 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:17:53 ...done in 0.144494098 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:19:30 ...done in 0.181857144 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:20:37 ...done in 0.157594534 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:24:10 ...done in 0.1535871 seconds.
+      Regenerating: 1 file(s) changed at 2017-08-28 20:25:01 ...done in 0.178021397 seconds.
+[2017-08-29 07:29:40] ERROR `/kzecqcspxqknosvg.html' not found.
+[2017-08-29 16:23:06] ERROR `/cgi-bin/camera' not found.
+[2017-08-30 10:40:18] ERROR NoMethodError: undefined method `bytesize' for nil:NilClass
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httprequest.rb:419:in `read_request_line'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httprequest.rb:201:in `parse'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:83:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-08-30 11:42:19] ERROR `/check_proxy' not found.
+[2017-08-30 17:59:55] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-30 17:59:56] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-30 17:59:57] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-30 19:26:35] ERROR `/wp-json/' not found.
+[2017-08-30 20:53:45] ERROR bad Request-Line `\x04\x01\x00P¥£qR\x00'.
+[2017-08-30 23:38:18] ERROR bad Request-Line `\x05\x02\x00\x02'.
+[2017-08-31 08:14:51] ERROR bad Request-Line `‚\x171⁄\vv\x1DÑvUY[\x1DËŒ%Èp\x01úÄSìŒ¡ù·!≤\eë®/b¥≈èoá)\ezç\x11°\x1Cò’â\f?B]€≈ü⁄'»áƒ¸C5'.
+[2017-08-31 20:23:48] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-08-31 20:23:48] ERROR `/phpMyAdmin-2.10.0/scripts/setup.php' not found.
+[2017-08-31 20:23:48] ERROR `/my/scripts/setup.php' not found.
+[2017-08-31 20:23:48] ERROR `/mysql/scripts/setup.php' not found.
+[2017-08-31 20:23:48] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-08-31 20:23:49] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-08-31 20:23:49] ERROR `/pma/scripts/setup.php' not found.
+[2017-08-31 20:23:49] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-08-31 20:23:49] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-08-31 20:23:49] ERROR `/scripts/setup.php' not found.
+[2017-08-31 21:37:58] ERROR `/wp-json/' not found.
+[2017-09-01 01:57:38] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-01 02:53:54] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-09-01 02:53:55] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-01 02:53:55] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-01 02:53:55] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-01 02:53:56] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-01 02:53:56] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-09-01 04:15:06] ERROR `/manager/html' not found.
+[2017-09-01 08:22:35] ERROR bad Request-Line `àµÀi*Ω§≠ƒ'.
+[2017-09-01 16:15:23] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-01 16:15:25] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-01 16:15:25] ERROR `/index.php' not found.
+[2017-09-01 16:15:25] ERROR `/manager/html' not found.
+[2017-09-01 17:51:57] ERROR bad URI `\x06\x00\x00à¿0¿,¿(¿$¿\x14¿'.
+[2017-09-01 17:52:00] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-01 17:52:03] ERROR bad Request-Line `USER test +iw test :Test Wuz Here'.
+[2017-09-01 17:52:04] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-01 19:50:02] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-01 19:50:02] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-01 19:50:02] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-02 00:39:10] ERROR bad Request-Line `Gh0st≠\x00\x00\x00‡\x00\x00\x00xúKS``ò√¿¿¿\x06ƒå@ºQñÅÅ\tH\aß\x16ïe&ß*\x04$&g+\x182îˆ∞00¨®rc\x00\x01\x11†Ç\x1F\\`&É«K7Ü\x19Ân\f9ïn\f;Ñ\x0F3¨Ësch®^œ4'Jó©Ç„0√ëh]&ê¯ŒóSÀA4L?2=·ƒíÜ\v@ı`\fT\x1FÆØ]'.
+[2017-09-02 00:57:31] ERROR `/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 00:57:31] ERROR `/xmlrpc.php' not found.
+[2017-09-02 00:57:32] ERROR `/blog/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 00:57:32] ERROR `/wordpress/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 00:57:33] ERROR `/wp/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 00:57:33] ERROR `/site/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 00:57:33] ERROR `/cms/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 04:31:08] ERROR bad Request-Line `\aÿ\x00;¯'ˇƒ∞\x01v\x0E%õeê¬ó9Â\x16MÛDí\x7F∫…È†,œ«ÉêvYœ\x04'.
+[2017-09-02 09:53:28] ERROR `/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 09:53:28] ERROR `/xmlrpc.php' not found.
+[2017-09-02 09:53:29] ERROR `/blog/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 09:53:30] ERROR `/wordpress/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 09:53:30] ERROR `/wp/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 09:53:31] ERROR `/site/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 09:53:31] ERROR `/cms/wp-includes/wlwmanifest.xml' not found.
+[2017-09-02 17:27:11] ERROR `/muieblackcat' not found.
+[2017-09-02 17:27:11] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-02 17:27:11] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-02 17:27:11] ERROR `/mysqladmin/scripts/setup.php' not found.
+[2017-09-02 23:42:55] ERROR `/x' not found.
+[2017-09-03 04:34:56] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-09-03 04:34:57] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-03 04:34:57] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-03 04:34:57] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-03 04:34:58] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-03 04:34:59] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-09-03 20:40:48] ERROR `/CFIDE/administrator/' not found.
+[2017-09-03 21:29:07] ERROR `/cgi/common.cgi' not found.
+[2017-09-03 21:29:08] ERROR `/stssys.htm' not found.
+[2017-09-03 21:29:12] ERROR `/command.php' not found.
+[2017-09-04 02:54:55] ERROR `/index.php' not found.
+[2017-09-04 02:54:56] ERROR `/manager/html' not found.
+[2017-09-04 07:32:14] ERROR `/minera/index.php/app/index' not found.
+[2017-09-04 15:15:18] ERROR `/muieblackcat' not found.
+[2017-09-04 15:15:19] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-04 15:15:20] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-04 15:15:20] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-04 15:15:21] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-04 15:15:21] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-09-04 15:15:41] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-04 17:05:08] ERROR `/hndUnblock.cgi' not found.
+[2017-09-04 17:05:09] ERROR `/tmUnblock.cgi' not found.
+[2017-09-04 17:05:10] ERROR `/moo' not found.
+[2017-09-04 17:29:40] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-04 17:29:40] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-04 17:29:41] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-04 18:32:19] ERROR `/manager/html' not found.
+[2017-09-05 01:56:36] ERROR `/downloader/' not found.
+[2017-09-05 03:44:12] ERROR `/manager/html' not found.
+[2017-09-05 04:08:31] ERROR `/muieblackcat' not found.
+[2017-09-05 04:08:31] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-05 04:08:31] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-05 04:08:32] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-05 04:08:32] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-05 04:08:32] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-09-06 03:29:11] ERROR `/ncsi.txt' not found.
+[2017-09-06 03:29:11] ERROR `/HNAP1/' not found.
+[2017-09-06 07:53:13] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-06 12:06:08] ERROR `/check_proxy' not found.
+[2017-09-06 14:27:33] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-06 21:45:26] ERROR bad Request-Line `\x04\x01\x00P¥£qR\x00'.
+[2017-09-06 23:55:33] ERROR bad Request-Line `\x16\x03\x01\x01"\x01\x00\x01\x1E\x03\x03§R±ZeŸ$Ôb\aÜ\fÊºﬁ÷5–^‘aª^D∆Y3\tRË\x05V\x00\x00à¿0¿,¿(¿$¿\x14¿'.
+[2017-09-06 23:55:36] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-06 23:55:39] ERROR bad Request-Line `USER test +iw test :Test Wuz Here'.
+[2017-09-06 23:55:39] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-07 00:29:02] ERROR bad Request-Line `\x05\x02\x00\x02'.
+[2017-09-07 04:29:53] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-07 04:57:13] ERROR `/manager/html' not found.
+[2017-09-07 06:28:05] ERROR `/oneshotimage1' not found.
+[2017-09-07 13:02:25] ERROR `/bins/mirai.arm' not found.
+[2017-09-07 17:40:49] ERROR `/muieblackcat' not found.
+[2017-09-07 17:40:50] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-07 17:40:50] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-07 17:40:50] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-07 17:40:50] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-07 17:40:51] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-09-07 21:05:52] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-09-07 21:05:53] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-07 21:05:54] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-07 21:05:55] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-07 21:05:55] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-07 21:05:55] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-09-07 22:50:35] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-07 22:50:35] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-07 22:50:35] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-08 07:47:57] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-08 11:24:58] ERROR `/sitemap.xml' not found.
+[2017-09-08 12:38:20] ERROR `/w00tw00t.at.ISC.SANS.DFind:)' not found.
+[2017-09-08 16:00:36] ERROR `/manager/html' not found.
+[2017-09-08 19:26:41] ERROR `/CFIDE/administrator/' not found.
+[2017-09-08 23:23:51] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-08 23:23:51] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-08 23:23:51] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-09 08:53:58] ERROR `/hedwig.cgi' not found.
+[2017-09-09 09:41:46] ERROR `/bhajlvqr.html' not found.
+[2017-09-09 11:10:12] ERROR unsupported method `POST'.
+[2017-09-09 11:14:20] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-09 11:14:21] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-09 11:14:21] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-10 02:30:11] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-10 05:49:36] ERROR `/muieblackcat' not found.
+[2017-09-10 05:49:36] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-10 05:49:37] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-10 05:49:37] ERROR `/PMA/scripts/setup.php' not found.
+[2017-09-10 05:49:38] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-10 05:49:38] ERROR `/admin/scripts/setup.php' not found.
+[2017-09-10 05:49:39] ERROR `/dbadmin/scripts/setup.php' not found.
+[2017-09-10 05:49:39] ERROR `/mysqlmanager/scripts/setup.php' not found.
+[2017-09-10 05:49:39] ERROR `/p/m/a/scripts/setup.php' not found.
+[2017-09-10 05:49:40] ERROR `/PMA2005/scripts/setup.php' not found.
+[2017-09-10 05:49:40] ERROR `/pma2005/scripts/setup.php' not found.
+[2017-09-10 05:49:40] ERROR `/phpmanager/scripts/setup.php' not found.
+[2017-09-10 05:49:41] ERROR `/php-myadmin/scripts/setup.php' not found.
+[2017-09-10 05:49:41] ERROR `/phpmy-admin/scripts/setup.php' not found.
+[2017-09-10 05:49:41] ERROR `/webadmin/scripts/setup.php' not found.
+[2017-09-10 05:49:42] ERROR `/webdb/scripts/setup.php' not found.
+[2017-09-10 05:49:42] ERROR `/mysqladmin/scripts/setup.php' not found.
+[2017-09-10 05:49:43] ERROR `/mysql-admin/scripts/setup.php' not found.
+[2017-09-10 06:31:51] ERROR `/x' not found.
+[2017-09-10 08:15:41] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-09-10 08:15:42] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-10 08:15:42] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-10 08:15:42] ERROR bad URI `HTTP/1.1'.
+[2017-09-10 08:55:12] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-10 09:16:21] ERROR unsupported method `POST'.
+[2017-09-10 18:31:45] ERROR `/wp-admin/admin-ajax.php' not found.
+[2017-09-11 02:07:12] ERROR `/sitemap.xml' not found.
+[2017-09-11 09:30:43] ERROR `/wp-admin/admin-ajax.php' not found.
+[2017-09-11 09:31:14] ERROR `/wp-admin/admin-ajax.php' not found.
+[2017-09-11 10:28:36] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-11 17:42:45] ERROR `/sitemap.xml' not found.
+[2017-09-12 05:52:58] ERROR bad Request-Line `\x16\x03\x01\x01"\x01\x00\x01\x1E\x03\x03\a\tç?$ÿ –ÚUîÿ∑÷\x1Cõ\x1Aælÿòõ9\x12FQ±†¡<Í\x00\x00à¿0¿,¿(¿$¿\x14¿'.
+[2017-09-12 05:53:01] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-12 05:53:04] ERROR bad Request-Line `USER test +iw test :Test Wuz Here'.
+[2017-09-12 05:53:04] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-12 08:30:30] ERROR bad Request-Line `\x16\x03\x01\x00ã\x01\x00\x00á\x03\x03\t“˘>m[\a∑í∆$R\x00*{Qó\x06∫&ÿ\aí\x11á}«˜\x01µ÷º\x00\x00\x1A¿/¿+¿\x11¿\a¿\x13¿\t¿\x14¿'.
+[2017-09-12 11:16:41] ERROR `/wp-json/' not found.
+[2017-09-12 12:30:13] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-12 23:03:35] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-13 00:23:44] ERROR `/cgi-bin/php' not found.
+[2017-09-13 01:09:54] ERROR `/sftp-config.json' not found.
+[2017-09-13 03:23:52] ERROR `/wallet.dat' not found.
+[2017-09-13 03:24:34] ERROR `/index.php' not found.
+[2017-09-13 03:24:35] ERROR `/manager/html' not found.
+[2017-09-13 10:45:35] ERROR unsupported method `POST'.
+[2017-09-13 11:23:27] ERROR `/shell' not found.
+[2017-09-13 11:41:00] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:11 
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `eof?'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/httpserver.rb:82:in `run'
+	/usr/local/rvm/rubies/ruby-2.3.0/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+[2017-09-13 11:41:06] ERROR `/check_proxy' not found.
+[2017-09-13 13:44:53] ERROR `/muieblackcat' not found.
+[2017-09-13 13:44:53] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-13 13:44:53] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-13 13:44:53] ERROR `/mysqladmin/scripts/setup.php' not found.
+[2017-09-13 16:14:41] ERROR `/w00tw00t.at.blackhats.romanian.anti-sec:)' not found.
+[2017-09-13 16:14:42] ERROR `/phpMyAdmin/scripts/setup.php' not found.
+[2017-09-13 16:14:44] ERROR `/phpmyadmin/scripts/setup.php' not found.
+[2017-09-13 16:14:45] ERROR `/pma/scripts/setup.php' not found.
+[2017-09-13 16:14:45] ERROR `/myadmin/scripts/setup.php' not found.
+[2017-09-13 16:14:48] ERROR `/MyAdmin/scripts/setup.php' not found.
+[2017-09-13 16:14:49] ERROR `/_PHPMYADMIN/scripts/setup.php' not found.
+[2017-09-13 16:14:50] ERROR `/_pHpMyAdMiN/scripts/setup.php' not found.
+[2017-09-13 16:14:57] ERROR `/_phpMyAdmin/scripts/setup.php' not found.
+[2017-09-13 16:15:03] ERROR `/_phpmyadmin/scripts/setup.php' not found.
+[2017-09-13 16:15:04] ERROR `/mysql/scripts/setup.php' not found.
+[2017-09-13 16:15:08] ERROR `/scripts/setup.php' not found.
+[2017-09-13 16:15:09] ERROR `/PHPMYADMIN/scripts/setup.php' not found.
+[2017-09-13 16:15:10] ERROR `/mysqladmin/scripts/setup.php' not found.
+[2017-09-13 17:45:05] ERROR `/ntpd' not found.
+[2017-09-13 20:54:32] ERROR bad Request-Line `\x04\x01\x00P¥£qR\x00'.
